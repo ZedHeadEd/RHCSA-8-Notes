@@ -1,5 +1,5 @@
 1. The minimal Install base enviroment includes the graphical support. True or False?
- 1. False. Minimal Install base environment does not include graphics support.
+    1. False. Minimal Install base environment does not include graphics support.
 2. Can you install RHEL 8 in text mode?
  2. 
 3. You can use the /boot partition within LVM to boot RHEL. True or False?
